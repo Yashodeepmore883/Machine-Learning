@@ -1,0 +1,101 @@
+age,gender,heart_rate,blood_pressure,medical_history,spo2_level,smoker,label
+26,Female,98,99,None,96,Yes,0
+80,Male,101,117,None,96,No,0
+46,Male,87,92,None,98,Yes,1
+67,Female,82,118,Diabetes,95,Yes,0
+67,Female,107,92,Heart Disease,96,No,0
+28,Female,79,112,None,99,Yes,0
+51,Male,80,109,None,98,No,0
+38,Male,79,92,None,98,No,0
+30,Male,82,119,Diabetes,98,Yes,0
+43,Male,65,115,None,99,No,0
+38,Male,101,118,Heart Disease,99,Yes,0
+41,Female,117,110,Heart Disease,97,Yes,0
+76,Male,93,99,None,99,No,0
+80,Female,78,92,None,96,No,0
+48,Female,91,119,None,97,No,0
+41,Female,66,103,Heart Disease,100,No,0
+32,Female,72,95,Diabetes,99,No,0
+40,Female,118,93,Diabetes,98,No,0
+60,Female,117,107,Diabetes,95,Yes,0
+57,Female,107,103,Heart Disease,98,Yes,0
+54,Male,86,111,Heart Disease,95,Yes,0
+28,Male,113,90,Heart Disease,100,No,0
+31,Female,83,116,Heart Disease,99,Yes,0
+76,Female,90,119,Heart Disease,95,No,0
+50,Male,70,114,Diabetes,100,No,0
+63,Female,78,92,None,100,Yes,0
+63,Female,77,107,Diabetes,97,No,0
+71,Male,61,90,None,95,Yes,0
+46,Male,79,101,None,100,Yes,0
+66,Female,91,113,Heart Disease,95,No,0
+36,Female,111,98,None,100,Yes,0
+75,Female,113,115,Diabetes,97,Yes,0
+30,Male,64,112,None,100,Yes,0
+45,Male,115,107,Heart Disease,100,Yes,0
+33,Female,115,94,Heart Disease,100,No,0
+50,Male,87,116,None,98,No,0
+55,Female,111,90,None,100,Yes,0
+78,Male,102,116,Diabetes,100,Yes,0
+52,Female,60,97,Heart Disease,99,Yes,0
+68,Female,120,116,Diabetes,98,Yes,0
+47,Female,75,114,Heart Disease,98,Yes,0
+66,Male,91,99,Diabetes,97,Yes,0
+77,Female,74,119,Diabetes,98,No,0
+42,Female,118,119,Heart Disease,95,No,0
+62,Female,66,103,Heart Disease,98,Yes,0
+47,Male,102,97,Heart Disease,97,Yes,0
+56,Male,64,113,None,97,Yes,0
+68,Male,89,104,Diabetes,97,No,0
+73,Male,120,103,None,100,No,0
+53,Female,98,108,Heart Disease,100,No,0
+22,Female,65,96,Diabetes,99,Yes,0
+31,Female,116,111,Diabetes,95,Yes,0
+21,Male,93,96,Heart Disease,100,Yes,0
+30,Male,77,108,Heart Disease,98,No,0
+69,Male,67,117,None,100,No,0
+24,Male,86,98,Heart Disease,98,Yes,0
+66,Female,113,97,None,95,Yes,0
+24,Female,81,116,Diabetes,96,Yes,0
+54,Female,66,101,Diabetes,99,No,0
+35,Female,70,112,Heart Disease,95,No,0
+42,Female,88,119,Diabetes,96,No,0
+31,Female,106,92,None,97,Yes,0
+43,Male,98,109,Diabetes,100,No,0
+38,Male,79,101,Heart Disease,96,No,0
+50,Female,120,100,Diabetes,97,No,0
+65,Female,79,113,None,95,No,0
+41,Male,106,117,Heart Disease,98,Yes,0
+32,Male,85,98,None,95,Yes,0
+51,Male,118,91,Heart Disease,99,Yes,0
+39,Female,85,109,Diabetes,99,No,0
+75,Male,65,93,Diabetes,100,Yes,0
+59,Male,100,99,None,96,Yes,0
+54,Female,108,115,None,96,Yes,0
+63,Female,120,100,None,97,No,0
+45,Male,78,102,Diabetes,99,No,0
+45,Male,93,91,Heart Disease,99,No,1
+73,Male,76,101,Diabetes,97,Yes,0
+25,Male,82,105,None,96,Yes,0
+60,Female,63,118,Diabetes,100,No,0
+80,Male,73,118,Heart Disease,98,No,0
+29,Male,109,118,Heart Disease,98,Yes,0
+21,Male,117,116,None,100,Yes,0
+63,Male,73,116,Heart Disease,98,Yes,0
+20,Male,60,96,Heart Disease,100,Yes,0
+27,Female,110,111,Diabetes,95,Yes,0
+71,Male,104,91,Diabetes,97,No,0
+58,Female,92,118,Diabetes,100,No,0
+36,Female,94,96,None,96,No,0
+31,Female,101,106,None,95,No,0
+36,Male,92,103,Diabetes,95,No,0
+59,Male,115,92,Heart Disease,96,No,0
+33,Male,85,102,Diabetes,96,Yes,0
+69,Female,116,108,None,97,Yes,0
+27,Female,118,109,Diabetes,100,Yes,0
+48,Male,74,93,Heart Disease,96,No,0
+58,Male,83,105,Diabetes,95,Yes,0
+19,Female,118,116,None,100,Yes,0
+32,Male,64,117,Diabetes,98,Yes,0
+21,Male,118,105,None,97,No,0
+62,Male,80,117,Diabetes,98,No,0
